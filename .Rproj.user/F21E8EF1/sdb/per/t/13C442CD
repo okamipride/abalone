@@ -1,0 +1,18 @@
+{
+    "contents" : "abalone <- read.csv(\"abalone.cvs\")\ntable(abalone$Sex)\nplot(Length ~ Sex, data=abalone)",
+    "created" : 1416884071581.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2538077002",
+    "id" : "13C442CD",
+    "lastKnownWriteTime" : 1416884332,
+    "path" : "F:/R/projects/Abalones/abalone.R",
+    "project_path" : "abalone.R",
+    "properties" : {
+        "notebook_format" : "html_document",
+        "tempName" : "Untitled2"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

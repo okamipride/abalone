@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1416883737647.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B873B913",
+    "lastKnownWriteTime" : 27303570963497028,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "abalone",
+        "contentUrl" : "content?title=abalone&file=16397a690c9242a296ea77046a3971c1.htm",
+        "displayedObservations" : 1000,
+        "displayedVariables" : 9,
+        "totalObservations" : 4177,
+        "variables" : 9
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
